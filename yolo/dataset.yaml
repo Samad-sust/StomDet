@@ -1,0 +1,9 @@
+train: '/home/samad/Documents/Abdus Samad/Computer Vision/Stomata and Density detection/Dataset/pilot-dataset/train'
+
+
+val: '/home/samad/Documents/Abdus Samad/Computer Vision/Stomata and Density detection/Dataset/pilot-dataset/val'
+
+
+nc: 1
+
+names: ['stomata']

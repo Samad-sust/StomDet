@@ -1,0 +1,9 @@
+train: '/home/samad/Documents/Abdus Samad/Computer Vision/Stomata and Density detection/Pilot Study/YoloV8/full_image/train'
+
+
+val: '/home/samad/Documents/Abdus Samad/Computer Vision/Stomata and Density detection/Pilot Study/YoloV8/full_image/val'
+
+
+nc: 1
+
+names: ['stomata']
